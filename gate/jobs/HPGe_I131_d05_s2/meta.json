@@ -1,0 +1,62 @@
+{
+ "job": "HPGe_I131_d05_s2",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "I131",
+ "distance_front_cm": 5,
+ "source_z_cm": 7.5,
+ "seed_rep": 2,
+ "t_meas_s": 600,
+ "n_chunks": 3,
+ "chunk_s": 200,
+ "cone_deg": 28.56505117707799,
+ "f_sim": 0.06086259963984586,
+ "f_geom": 0.05278640450004207,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 2325.912458661744,
+ "entering_per_s": 2017.274263687977,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 29.458,
+   "intensity": 0.01446036761837186,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 29.778,
+   "intensity": 0.02678838017482746,
+   "type": "x"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 80.185,
+   "intensity": 0.0261615,
+   "type": "g"
+  },
+  {
+   "sourceID": 3,
+   "energy_keV": 284.305,
+   "intensity": 0.061206500000000004,
+   "type": "g"
+  },
+  {
+   "sourceID": 4,
+   "energy_keV": 364.489,
+   "intensity": 0.815,
+   "type": "g"
+  },
+  {
+   "sourceID": 5,
+   "energy_keV": 636.989,
+   "intensity": 0.07155700000000001,
+   "type": "g"
+  },
+  {
+   "sourceID": 6,
+   "energy_keV": 722.911,
+   "intensity": 0.0176855,
+   "type": "g"
+  }
+ ]
+}

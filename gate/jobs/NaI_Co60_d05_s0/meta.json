@@ -1,0 +1,32 @@
+{
+ "job": "NaI_Co60_d05_s0",
+ "kind": "source",
+ "detector": "NaI",
+ "nuclide": "Co60",
+ "distance_front_cm": 5,
+ "source_z_cm": 8.81,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 10,
+ "chunk_s": 60,
+ "cone_deg": 39.30740066286194,
+ "f_sim": 0.11312080398021218,
+ "f_geom": 0.10230239941911834,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 8363.933018178775,
+ "entering_per_s": 7564.0411509995365,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 1173.228,
+   "intensity": 0.9984999999999999,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 1332.492,
+   "intensity": 0.9998260000000001,
+   "type": "g"
+  }
+ ]
+}

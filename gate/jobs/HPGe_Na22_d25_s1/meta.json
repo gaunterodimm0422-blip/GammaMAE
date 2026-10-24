@@ -1,0 +1,32 @@
+{
+ "job": "HPGe_Na22_d25_s1",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "Na22",
+ "distance_front_cm": 25,
+ "source_z_cm": 27.5,
+ "seed_rep": 1,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 7.710593137499643,
+ "f_sim": 0.004520794637570824,
+ "f_geom": 0.0024814048950054235,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 468.10342034995216,
+ "entering_per_s": 256.93582915088905,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 511.0,
+   "intensity": 1.7991,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 1274.537,
+   "intensity": 0.9994,
+   "type": "g"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "job": "NaI_Ba133_d25_s0",
+ "kind": "source",
+ "detector": "NaI",
+ "nuclide": "Ba133",
+ "distance_front_cm": 25,
+ "source_z_cm": 28.81,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 10.665202012273554,
+ "f_sim": 0.008637311012732518,
+ "f_geom": 0.005707214420383633,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 865.4769367637846,
+ "entering_per_s": 571.8750253089551,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 30.625,
+   "intensity": 0.326,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 30.973,
+   "intensity": 0.602,
+   "type": "x"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 35.089,
+   "intensity": 0.17600000000000002,
+   "type": "x"
+  },
+  {
+   "sourceID": 3,
+   "energy_keV": 35.414,
+   "intensity": 0.21899999999999997,
+   "type": "x"
+  },
+  {
+   "sourceID": 4,
+   "energy_keV": 35.818,
+   "intensity": 0.0429,
+   "type": "x"
+  },
+  {
+   "sourceID": 5,
+   "energy_keV": 53.1622,
+   "intensity": 0.021407250000000003,
+   "type": "g"
+  },
+  {
+   "sourceID": 6,
+   "energy_keV": 79.6142,
+   "intensity": 0.02649535,
+   "type": "g"
+  },
+  {
+   "sourceID": 7,
+   "energy_keV": 80.9979,
+   "intensity": 0.3294855,
+   "type": "g"
+  },
+  {
+   "sourceID": 8,
+   "energy_keV": 276.3989,
+   "intensity": 0.0716057,
+   "type": "g"
+  },
+  {
+   "sourceID": 9,
+   "energy_keV": 302.8508,
+   "intensity": 0.18335775,
+   "type": "g"
+  },
+  {
+   "sourceID": 10,
+   "energy_keV": 356.0129,
+   "intensity": 0.6204999999999999,
+   "type": "g"
+  },
+  {
+   "sourceID": 11,
+   "energy_keV": 383.8485,
+   "intensity": 0.08941405,
+   "type": "g"
+  }
+ ]
+}

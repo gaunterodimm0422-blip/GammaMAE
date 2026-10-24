@@ -1,0 +1,26 @@
+{
+ "job": "GAGG_K40_d25_s2",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "K40",
+ "distance_front_cm": 25,
+ "source_z_cm": 26.27,
+ "seed_rep": 2,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 4.908125709964239,
+ "f_sim": 0.001833413845207077,
+ "f_geom": 0.0006439139850322184,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 7.2313508882657525,
+ "entering_per_s": 2.539725539764076,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 1460.82,
+   "intensity": 0.1066,
+   "type": "g"
+  }
+ ]
+}

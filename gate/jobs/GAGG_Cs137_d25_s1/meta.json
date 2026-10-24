@@ -1,0 +1,50 @@
+{
+ "job": "GAGG_Cs137_d25_s1",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "Cs137",
+ "distance_front_cm": 25,
+ "source_z_cm": 26.27,
+ "seed_rep": 1,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 4.908125709964239,
+ "f_sim": 0.001833413845207077,
+ "f_geom": 0.0006439139850322184,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 63.214367563534154,
+ "entering_per_s": 22.201542458914535,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 31.816,
+   "intensity": 0.01990477325967896,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 32.193,
+   "intensity": 0.036670547641265594,
+   "type": "x"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 36.482,
+   "intensity": 0.010786365095092223,
+   "type": "x"
+  },
+  {
+   "sourceID": 3,
+   "energy_keV": 36.827,
+   "intensity": 0.013504529099055463,
+   "type": "x"
+  },
+  {
+   "sourceID": 4,
+   "energy_keV": 661.657,
+   "intensity": 0.851,
+   "type": "g"
+  }
+ ]
+}

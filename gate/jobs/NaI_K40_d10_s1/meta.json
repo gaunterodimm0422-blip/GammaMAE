@@ -1,0 +1,26 @@
+{
+ "job": "NaI_K40_d10_s1",
+ "kind": "source",
+ "detector": "NaI",
+ "nuclide": "K40",
+ "distance_front_cm": 10,
+ "source_z_cm": 13.81,
+ "seed_rep": 1,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 22.856840598605295,
+ "f_sim": 0.03926086949544921,
+ "f_geom": 0.03276353470527893,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 154.8527214639508,
+ "entering_per_s": 129.22593358456115,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 1460.82,
+   "intensity": 0.1066,
+   "type": "g"
+  }
+ ]
+}

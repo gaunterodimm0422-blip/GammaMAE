@@ -1,0 +1,32 @@
+{
+ "job": "GAGG_Co60_d10_s0",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "Co60",
+ "distance_front_cm": 10,
+ "source_z_cm": 11.27,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 9.237817048767123,
+ "f_sim": 0.006484738320425842,
+ "f_geom": 0.003984119364835337,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 479.4689839894219,
+ "entering_per_s": 294.57806461259577,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 1173.228,
+   "intensity": 0.9984999999999999,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 1332.492,
+   "intensity": 0.9998260000000001,
+   "type": "g"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "job": "GAGG_Na22_d10_s0",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "Na22",
+ "distance_front_cm": 10,
+ "source_z_cm": 11.27,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 9.237817048767123,
+ "f_sim": 0.006484738320425842,
+ "f_geom": 0.003984119364835337,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 671.4589870193336,
+ "entering_per_s": 412.5336475721925,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 511.0,
+   "intensity": 1.7991,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 1274.537,
+   "intensity": 0.9994,
+   "type": "g"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "job": "HPGe_Co57_d05_s2",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "Co57",
+ "distance_front_cm": 5,
+ "source_z_cm": 7.5,
+ "seed_rep": 2,
+ "t_meas_s": 600,
+ "n_chunks": 3,
+ "chunk_s": 200,
+ "cone_deg": 28.56505117707799,
+ "f_sim": 0.06086259963984586,
+ "f_geom": 0.05278640450004207,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 2374.4204272293787,
+ "entering_per_s": 2059.3454414792413,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 14.4129,
+   "intensity": 0.0916,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 122.06065,
+   "intensity": 0.856,
+   "type": "g"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 136.47356,
+   "intensity": 0.10679999999999999,
+   "type": "g"
+  }
+ ]
+}

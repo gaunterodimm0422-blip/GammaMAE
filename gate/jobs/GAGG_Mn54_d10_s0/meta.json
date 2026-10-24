@@ -1,0 +1,26 @@
+{
+ "job": "GAGG_Mn54_d10_s0",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "Mn54",
+ "distance_front_cm": 10,
+ "source_z_cm": 11.27,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 9.237817048767123,
+ "f_sim": 0.006484738320425842,
+ "f_geom": 0.003984119364835337,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 239.8777333794708,
+ "entering_per_s": 147.37703751894773,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 834.848,
+   "intensity": 0.99976,
+   "type": "g"
+  }
+ ]
+}

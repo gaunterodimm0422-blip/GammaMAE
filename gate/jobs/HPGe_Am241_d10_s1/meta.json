@@ -1,0 +1,38 @@
+{
+ "job": "HPGe_Am241_d10_s1",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "Am241",
+ "distance_front_cm": 10,
+ "source_z_cm": 12.5,
+ "seed_rep": 1,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 16.03624346792648,
+ "f_sim": 0.019456427849789015,
+ "f_geom": 0.014928749927334062,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 538.5445405311718,
+ "entering_per_s": 413.22059899130306,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 17.136,
+   "intensity": 0.36639507503463287,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 26.3446,
+   "intensity": 0.0227,
+   "type": "g"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 59.5409,
+   "intensity": 0.359,
+   "type": "g"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "job": "HPGe_Mn54_d10_s2",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "Mn54",
+ "distance_front_cm": 10,
+ "source_z_cm": 12.5,
+ "seed_rep": 2,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 16.03624346792648,
+ "f_sim": 0.019456427849789015,
+ "f_geom": 0.014928749927334062,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 719.7150573628875,
+ "entering_per_s": 552.2311800120056,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 834.848,
+   "intensity": 0.99976,
+   "type": "g"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "job": "NaI_Am241_d05_s0",
+ "kind": "source",
+ "detector": "NaI",
+ "nuclide": "Am241",
+ "distance_front_cm": 5,
+ "source_z_cm": 8.81,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 3,
+ "chunk_s": 200,
+ "cone_deg": 39.30740066286194,
+ "f_sim": 0.11312080398021218,
+ "f_geom": 0.10230239941911834,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 3131.1293046375285,
+ "entering_per_s": 2831.681083277728,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 17.136,
+   "intensity": 0.36639507503463287,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 26.3446,
+   "intensity": 0.0227,
+   "type": "g"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 59.5409,
+   "intensity": 0.359,
+   "type": "g"
+  }
+ ]
+}

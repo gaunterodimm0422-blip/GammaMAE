@@ -1,0 +1,38 @@
+{
+ "job": "NaI_Co57_d25_s0",
+ "kind": "source",
+ "detector": "NaI",
+ "nuclide": "Co57",
+ "distance_front_cm": 25,
+ "source_z_cm": 28.81,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 10.665202012273554,
+ "f_sim": 0.008637311012732518,
+ "f_geom": 0.005707214420383633,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 336.9656870775312,
+ "entering_per_s": 222.65441473954257,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 14.4129,
+   "intensity": 0.0916,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 122.06065,
+   "intensity": 0.856,
+   "type": "g"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 136.47356,
+   "intensity": 0.10679999999999999,
+   "type": "g"
+  }
+ ]
+}

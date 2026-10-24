@@ -1,0 +1,32 @@
+{
+ "job": "HPGe_Co60_d25_s0",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "Co60",
+ "distance_front_cm": 25,
+ "source_z_cm": 27.5,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 7.710593137499643,
+ "f_sim": 0.004520794637570824,
+ "f_geom": 0.0024814048950054235,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 334.2587942019792,
+ "entering_per_s": 183.47026897401452,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 1173.228,
+   "intensity": 0.9984999999999999,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 1332.492,
+   "intensity": 0.9998260000000001,
+   "type": "g"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "job": "NaI_Na22_d10_s1",
+ "kind": "source",
+ "detector": "NaI",
+ "nuclide": "Na22",
+ "distance_front_cm": 10,
+ "source_z_cm": 13.81,
+ "seed_rep": 1,
+ "t_meas_s": 600,
+ "n_chunks": 4,
+ "chunk_s": 150,
+ "cone_deg": 22.856840598605295,
+ "f_sim": 0.03926086949544921,
+ "f_geom": 0.03276353470527893,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 4065.247101471541,
+ "entering_per_s": 3392.4838192907537,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 511.0,
+   "intensity": 1.7991,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 1274.537,
+   "intensity": 0.9994,
+   "type": "g"
+  }
+ ]
+}

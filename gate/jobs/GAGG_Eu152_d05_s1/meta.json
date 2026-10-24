@@ -1,0 +1,134 @@
+{
+ "job": "GAGG_Eu152_d05_s1",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "Eu152",
+ "distance_front_cm": 5,
+ "source_z_cm": 6.27,
+ "seed_rep": 1,
+ "t_meas_s": 600,
+ "n_chunks": 2,
+ "chunk_s": 300,
+ "cone_deg": 16.251741387398493,
+ "f_sim": 0.019979325442470386,
+ "f_geom": 0.01538828603203235,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 1753.5837957395904,
+ "entering_per_s": 1350.6286339685967,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 39.522,
+   "intensity": 0.2087,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 40.117,
+   "intensity": 0.37799999999999995,
+   "type": "x"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 45.523,
+   "intensity": 0.11810000000000001,
+   "type": "x"
+  },
+  {
+   "sourceID": 3,
+   "energy_keV": 45.998,
+   "intensity": 0.1485,
+   "type": "x"
+  },
+  {
+   "sourceID": 4,
+   "energy_keV": 46.575,
+   "intensity": 0.0305,
+   "type": "x"
+  },
+  {
+   "sourceID": 5,
+   "energy_keV": 121.7817,
+   "intensity": 0.2853,
+   "type": "g"
+  },
+  {
+   "sourceID": 6,
+   "energy_keV": 244.6974,
+   "intensity": 0.0755,
+   "type": "g"
+  },
+  {
+   "sourceID": 7,
+   "energy_keV": 344.2785,
+   "intensity": 0.2659,
+   "type": "g"
+  },
+  {
+   "sourceID": 8,
+   "energy_keV": 411.1165,
+   "intensity": 0.02237,
+   "type": "g"
+  },
+  {
+   "sourceID": 9,
+   "energy_keV": 443.9606,
+   "intensity": 0.02827,
+   "type": "g"
+  },
+  {
+   "sourceID": 10,
+   "energy_keV": 778.9045,
+   "intensity": 0.1293,
+   "type": "g"
+  },
+  {
+   "sourceID": 11,
+   "energy_keV": 867.38,
+   "intensity": 0.042300000000000004,
+   "type": "g"
+  },
+  {
+   "sourceID": 12,
+   "energy_keV": 964.057,
+   "intensity": 0.1451,
+   "type": "g"
+  },
+  {
+   "sourceID": 13,
+   "energy_keV": 1085.837,
+   "intensity": 0.1011,
+   "type": "g"
+  },
+  {
+   "sourceID": 14,
+   "energy_keV": 1089.737,
+   "intensity": 0.01734,
+   "type": "g"
+  },
+  {
+   "sourceID": 15,
+   "energy_keV": 1112.076,
+   "intensity": 0.1367,
+   "type": "g"
+  },
+  {
+   "sourceID": 16,
+   "energy_keV": 1212.948,
+   "intensity": 0.014150000000000001,
+   "type": "g"
+  },
+  {
+   "sourceID": 17,
+   "energy_keV": 1299.142,
+   "intensity": 0.01633,
+   "type": "g"
+  },
+  {
+   "sourceID": 18,
+   "energy_keV": 1408.013,
+   "intensity": 0.2087,
+   "type": "g"
+  }
+ ]
+}

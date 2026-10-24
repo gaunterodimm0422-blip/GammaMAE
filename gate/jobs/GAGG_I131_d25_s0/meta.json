@@ -1,0 +1,62 @@
+{
+ "job": "GAGG_I131_d25_s0",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "I131",
+ "distance_front_cm": 25,
+ "source_z_cm": 26.27,
+ "seed_rep": 0,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 4.908125709964239,
+ "f_sim": 0.001833413845207077,
+ "f_geom": 0.0006439139850322184,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 70.06536246700608,
+ "entering_per_s": 24.607683026284242,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 29.458,
+   "intensity": 0.01446036761837186,
+   "type": "x"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 29.778,
+   "intensity": 0.02678838017482746,
+   "type": "x"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 80.185,
+   "intensity": 0.0261615,
+   "type": "g"
+  },
+  {
+   "sourceID": 3,
+   "energy_keV": 284.305,
+   "intensity": 0.061206500000000004,
+   "type": "g"
+  },
+  {
+   "sourceID": 4,
+   "energy_keV": 364.489,
+   "intensity": 0.815,
+   "type": "g"
+  },
+  {
+   "sourceID": 5,
+   "energy_keV": 636.989,
+   "intensity": 0.07155700000000001,
+   "type": "g"
+  },
+  {
+   "sourceID": 6,
+   "energy_keV": 722.911,
+   "intensity": 0.0176855,
+   "type": "g"
+  }
+ ]
+}

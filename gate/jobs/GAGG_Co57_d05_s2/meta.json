@@ -1,0 +1,38 @@
+{
+ "job": "GAGG_Co57_d05_s2",
+ "kind": "source",
+ "detector": "GAGG",
+ "nuclide": "Co57",
+ "distance_front_cm": 5,
+ "source_z_cm": 6.27,
+ "seed_rep": 2,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 16.251741387398493,
+ "f_sim": 0.019979325442470386,
+ "f_geom": 0.01538828603203235,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 779.4494276220087,
+ "entering_per_s": 600.3401253104716,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 14.4129,
+   "intensity": 0.0916,
+   "type": "g"
+  },
+  {
+   "sourceID": 1,
+   "energy_keV": 122.06065,
+   "intensity": 0.856,
+   "type": "g"
+  },
+  {
+   "sourceID": 2,
+   "energy_keV": 136.47356,
+   "intensity": 0.10679999999999999,
+   "type": "g"
+  }
+ ]
+}

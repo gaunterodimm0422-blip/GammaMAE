@@ -1,0 +1,26 @@
+{
+ "job": "HPGe_K40_d25_s2",
+ "kind": "source",
+ "detector": "HPGe",
+ "nuclide": "K40",
+ "distance_front_cm": 25,
+ "source_z_cm": 27.5,
+ "seed_rep": 2,
+ "t_meas_s": 600,
+ "n_chunks": 1,
+ "chunk_s": 600,
+ "cone_deg": 7.710593137499643,
+ "f_sim": 0.004520794637570824,
+ "f_geom": 0.0024814048950054235,
+ "activity_Bq": 37000.0,
+ "primaries_per_s": 17.830918209506844,
+ "entering_per_s": 9.78715718688039,
+ "lines": [
+  {
+   "sourceID": 0,
+   "energy_keV": 1460.82,
+   "intensity": 0.1066,
+   "type": "g"
+  }
+ ]
+}

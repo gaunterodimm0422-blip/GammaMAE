@@ -1,0 +1,4 @@
+energy,unc_en,intensity,unc_i,type,shell,p_z,p_n,p_symbol,p_energy_shift,p_energy,unc_pe,jp,half_life,operator_hl,unc_hl,unit_hl,half_life_sec,unc_hls,decay,decay_%,unc_d,q,unc_q,d_z,d_n,d_symbol,ensdf_publication_cut-off,ensdf_authors,Extraction_date
+0.848,,0.09372404753452222,0.004936361203048386,X,KA1,11,11,Na,,0,,3+,2.6018,,22,Y,82104810.00069347,69425.2371441024,EC+B+,100,,2843.33,13,10,12,Ne,1-Apr-2015,M. Shamsuzzoha Basunia,2026-10-22
+0.848,,0.047124451100357775,0.0024930377472863123,X,KA2,11,11,Na,,0,,3+,2.6018,,22,Y,82104810.00069347,69425.2371441024,EC+B+,100,,2843.33,13,10,12,Ne,1-Apr-2015,M. Shamsuzzoha Basunia,2026-10-22
+
